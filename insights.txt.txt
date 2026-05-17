@@ -1,0 +1,7 @@
+1. Dataset contains passenger survival information.
+2. Females survived more than males.
+3. First-class passengers had higher survival rates.
+4. Some columns contain missing values.
+5. Age distribution varies widely.
+6. Fare values contain outliers.
+7. Passenger class affects survival probability.
